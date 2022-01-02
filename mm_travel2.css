@@ -1,0 +1,132 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#0c296c;
+	}
+	
+a {
+	color: #FF6600;
+	font-weight:bold;
+	}
+	
+a:hover {
+	color: #3366CC;
+	}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 2px solid #C0DFFD;
+	}
+	
+#navigation a {
+	color: #0c296c;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 26px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #FFFFFF;
+	background-image: url("images/mm_arrow.gif");
+	background-repeat: no-repeat;
+	background-position: 14px 45%;
+	}
+	
+#navigation a:hover {
+	background: #ffffff url("images/mm_arrow.gif") 14px 45% no-repeat;
+	color:#FF6600;
+	}
+	
+#logo 	{
+	font:24px Verdana, Arial, Helvetica, sans-serif;
+	color: #CCFF99;
+	letter-spacing:.2em;
+	line-height:30px;
+	}
+
+#tagline 	{	
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #FF9933;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 2px solid #E6F3FF;
+		}
+		
+#dateformat {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #0c296c;
+	letter-spacing:0.2em;
+	}
+	
+#dateformat a {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	font-weight:bold;
+	letter-spacing:.1em;
+	}
+	
+#dateformat a:hover {
+	color: #FF6600;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#003366;
+	line-height:20px;
+	margin-top:0px;
+	}
+	
+.pageName{
+	color: #0c296c;
+	letter-spacing:0.2em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	}
+	
+.subHeader {
+	color: #0c296c;
+	line-height:16px;
+	letter-spacing:0.4em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+
+.quote {
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	}
+	
+.navText {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+	
+.wf_welcome {
+
+	color: #0c296c;
+	line-height:24px;
+	letter-spacing:0.2em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
